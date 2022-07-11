@@ -1,0 +1,37 @@
+.main {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#counterValue {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.counter-value {
+    display: flex;
+    font-size: 40px;
+    font-weight: 900;
+    color: green;
+    text-align: center;
+    display: block;
+    align-items: center;
+    margin: auto;
+}
+
+.button {
+    margin: auto;
+    display: inline;
+    color: black;
+    background-color: white;
+    font-size: 14px;
+    border-width: 0;
+    border: 1px black solid;
+    border-radius: 4px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
